@@ -1,7 +1,6 @@
 {
-  "name": "calculator",
-  "author": "Sebastián Zea",
-  "version": "1.0.0",
+  "name": "my-project",
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,9 +11,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.3.11",
-    "tailwindcss": "^2.2.19",
     "vite": "^2.6.4"
   }
 }
