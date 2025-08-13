@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font1 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.blancof {
+    background-color: #f1faee;
+}
+
+.rojof {
+    background-color: #e63946;
+}
+.azuloscurof {
+    color: #1d3557;
+}
+
+.azulclarof {
+    color:#a8dadc
+}
+.azulf {
+    color: #457b9d
+}
